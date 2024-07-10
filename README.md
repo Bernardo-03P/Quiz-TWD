@@ -27,3 +27,4 @@ Uso de flexbox para organizar os elementos.
 Estilos específicos para o campo de resultado, botão e rótulos.
 Posicionamento e dimensionamento dos elementos usando margens e tamanhos.
 Em resumo, o arquivo quiz.js contém a lógica do quiz, enquanto o quiz.css define o layout visual e a aparência dos elementos da página. Juntos, eles implementam um quiz interativo com perguntas, respostas e exibição de resultados.
+![Captura de tela 2024-07-10 103626](https://github.com/Bernardo-03P/Quiz-TWD/assets/162700391/9079662f-e427-4791-bcbf-342b45906b8c)
